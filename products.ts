@@ -4,8 +4,8 @@
 */
 
 export interface Products {
-    id: number;
-    name: string;
-    rec_name: string;
-    codes_number?: string[];
+  id: number;
+  name: string;
+  rec_name: string;
+  codes_number?: string[];
 }
