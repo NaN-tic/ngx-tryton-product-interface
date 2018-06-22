@@ -7,5 +7,6 @@ export interface Products {
   id: number;
   name: string;
   rec_name: string;
+  code?: string;
   codes_number?: string[];
 }
